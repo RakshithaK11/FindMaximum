@@ -52,11 +52,17 @@ def max_marks(marks):
 ~~~
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
+![image](https://github.com/RakshithaK11/FindMaximum/assets/139336455/c07dc36f-6d70-4359-870c-dbc201cdc26e)
+![image](https://github.com/RakshithaK11/FindMaximum/assets/139336455/9563e446-c030-443c-89f2-1e74e44f5128)
+
+
 
 ## Output:
-![Screenshot 2023-12-24 161556](https://github.com/RakshithaK11/FindMaximum/assets/139336455/25db6588-b274-4353-b635-eb43c4705502)
-![Screenshot 2023-12-24 161556](https://github.com/RakshithaK11/FindMaximum/assets/139336455/25db6588-b274-4353-b635-eb43c4705502)
-![Screenshot 2023-12-24 161556](https://github.com/RakshithaK11/FindMaximum/assets/139336455/25db6588-b274-4353-b635-eb43c4705502)
+![image](https://github.com/RakshithaK11/FindMaximum/assets/139336455/d55cdcc1-d1f3-40c4-b4cd-87fa1cd5dcd4)
+![image](https://github.com/RakshithaK11/FindMaximum/assets/139336455/fca50fa6-e14f-495a-ab0b-fe8f9690007e)
+![image](https://github.com/RakshithaK11/FindMaximum/assets/139336455/cdde46b9-4ab0-4c01-a570-10adcfdc151c)
+
+
 
 
 
