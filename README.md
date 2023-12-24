@@ -55,6 +55,9 @@ def max_marks(marks):
 
 ## Output:
 ![Screenshot 2023-12-24 161556](https://github.com/RakshithaK11/FindMaximum/assets/139336455/25db6588-b274-4353-b635-eb43c4705502)
+![Screenshot 2023-12-24 161556](https://github.com/RakshithaK11/FindMaximum/assets/139336455/25db6588-b274-4353-b635-eb43c4705502)
+![Screenshot 2023-12-24 161556](https://github.com/RakshithaK11/FindMaximum/assets/139336455/25db6588-b274-4353-b635-eb43c4705502)
+
 
 
 
